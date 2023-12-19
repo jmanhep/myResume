@@ -1,0 +1,8 @@
+.mb-2{
+    width: 500px;
+    
+}
+
+.darkcolor{
+    background-color:rgb(7, 29, 47) !important;
+}
